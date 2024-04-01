@@ -5,3 +5,7 @@ mais um
 
 enviando funcionalidade nova
 
+<<<<<<< HEAD
+=======
+enviando funcionalidade b
+>>>>>>> 241e6cb24902914f797016085b8b36ddfd30c29e
