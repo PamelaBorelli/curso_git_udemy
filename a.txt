@@ -2,3 +2,5 @@ testando uma atualização de arquivo
 
 
 mais um 
+
+enviando funcionalidade nova
